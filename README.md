@@ -6,3 +6,7 @@ Python
 TensorFlow / Keras
 CNN (Convolutional Neural Network)
 Google Colab
+
+# Results
+The model classifies X-ray images into PNEUMONIA or NORMAL.
+Accuracy depends on dataset and training parameters.
